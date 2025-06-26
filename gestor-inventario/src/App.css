@@ -1,0 +1,89 @@
+body{
+  background-color: #E5E5CB;
+  color: #3C2A21;
+}
+
+.main-card{
+
+ display: flex;
+ flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+#botoncito{
+  border-radius: 10px;
+  background-color: #3C2A21;
+  width: 5vw;
+  color: #D5CEA3;
+ align-items: center;
+}
+
+#botoncito:hover{
+  transform: scale(1.1);
+}
+
+ul, ol {
+  list-style-type: none;
+}
+
+.buscador-card{
+  
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  
+}
+
+.buscador-card img{
+  width: 2.5vw;
+   justify-self: center;
+   background-color: #D5CEA3;
+   margin-top: 1.4vh;
+   padding: 2%;
+   border-radius: 10px;
+   margin-left: -1vw;
+}
+
+.buscar{
+ width: 15vw;
+ height: 5vh;
+ margin-top: 2vh;
+ border-radius: 10px;
+ font-size: 17px;
+ background-color: #3C2A21;
+ color: white;
+ border-color: transparent;
+ text-align: center;
+}
+
+.inputs{
+  background-color: transparent;
+  border: solid 3px #3C2A21;
+  font-size: 15px;
+  text-align: center;
+  border-radius: 10px;
+  margin-bottom: 2vh;
+  margin-right: 1vw;
+  height: 3vh;
+}
+
+h2{
+  font-size: 35px;
+}
+
+.botones{
+  background-color:transparent;
+  border: solid 1px #3C2A21;
+}
+
+.botones:hover{
+  background-color: #3C2A21;
+  color: #D5CEA3;
+}
+
+
+#primero{
+  margin-left: 1.5vw;
+}
