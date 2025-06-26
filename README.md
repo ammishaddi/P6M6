@@ -1,4 +1,4 @@
-# PROYECTO 6 MODULO 3- FETCH Y AXIOS PARA EL USO DE APIs
+# PROYECTO 6 MODULO 6
 El presente repositorio contiene el proyecto 6 del Módulo "Introducción a React"
 
 ## Objetivos de aprendizaje
